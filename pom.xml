@@ -31,7 +31,7 @@
     </parent>
     <groupId>org.forgerock.ce.openicf</groupId>
     <artifactId>openicf-license</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
     <name>OpenICF License</name>
     <description>This modules is the container of license files used in connectors project. Framework and Bundles can depend on this artifact to include the license files in jars</description>
